@@ -1,0 +1,9 @@
+[
+    { "id": 1, "name": "iphone15", "price": "$1000" },
+    { "id": 2, "name": "iphone15 Pro", "price": "$1180" },
+    { "id": 3, "name": "iphone15 Pro Max", "price": "$1400" },
+    { "id": 4, "name": "iphone16 ", "price": "$1120" },
+    { "id": 5, "name": "iphone16 Pro", "price": "$1345" },
+    { "id": 6, "name": "iphone16 Pro Max", "price": "$1575" }
+  ]
+  
